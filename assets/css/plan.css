@@ -1,0 +1,110 @@
+/* custom.css */
+
+/* Reset default margin and padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#activitiesContainer {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.activity {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.activity-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.activity-info h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.activity-info p {
+  margin-bottom: 10px;
+}
+
+.activity-info a {
+  display: inline-block;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.activity-info a:hover {
+  text-decoration: underline;
+}
+
+.hotel,
+.flight {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  height:40%
+}
+
+.hotel-image img,
+.flight-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.hotel-info h3,
+.flight-info h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.hotel-info p,
+.flight-info p {
+  margin-bottom: 10px;
+}
+
+.hotel-info a,
+.flight-info a {
+  display: inline-block;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.hotel-info a:hover,
+.flight-info a:hover {
+  text-decoration: underline;
+}
+
+.activity-image-plus img {
+  width: 50%;
+  height: auto;
+}
+
+.hotel-image-resize img {
+  width: 50%;
+  height: 20%;
+}

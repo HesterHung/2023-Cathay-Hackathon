@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Trip Planner</title>
+  <link rel="stylesheet" type="text/css" href="assets/css/plan.css">
+</head>
+<body>
+  <header>
+    <h1>Trip Planner</h1>
+  </header>
+  <main>
+    <form id="tripForm">
+      <input type="text" id="destinationInput" placeholder="Enter destination">
+      <input type="date" id="dateInput">
+      <button type="submit">Plan Trip</button>
+    </form>
+    <div id="tripDetails"></div>
+  </main>
+
+  <!-- Share My Plan Button -->
+  <footer id="footer" class="footer">
+    <div class="container">
+      <div class="footer-menu">
+        <div class="row">
+          <p>Team Line</p>
+          <button id="sharePlanBtn" class="share-button">Share My Plan</button>
+        </div>
+      </div>
+    </div><!--/.container-->
+  </footer><!--/.footer-->
+
+  <script src="script.js"></script>
+</body>
+</html>

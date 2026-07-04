@@ -1,7 +1,3 @@
------------------------
-# README
------------------------
-
 Team 264 - DebugHero
 
 - - - 
@@ -19,7 +15,7 @@ This project was developed during the Cathay Hackathon 2023 as an early-stage pr
 
 At the time, the implementation was built using only HTML, CSS, and JavaScript without a backend system. The goal was to validate product ideas and demonstrate a conceptual end-to-end travel experience.
 
----
+
 
 ## Problem Statement
 
@@ -30,7 +26,7 @@ The challenge focused on improving:
 * Flight safety enhancement through technology
 * Operational efficiency for low-cost carrier planning
 
----
+
 
 ## Solution Concept
 
@@ -41,7 +37,7 @@ Our solution explored a **community-driven travel platform** where users could:
 * Explore budget-based travel suggestions
 * Improve travel decision-making through community insights
 
----
+
 
 ## Key Features (Prototype Stage)
 
@@ -50,7 +46,7 @@ Our solution explored a **community-driven travel platform** where users could:
 * Budget-based travel exploration flow
 * Early-stage UX for pre-booking inspiration
 
----
+
 
 ## Tech Stack
 
@@ -60,7 +56,7 @@ Our solution explored a **community-driven travel platform** where users could:
 
 (No backend was implemented due to hackathon time constraints)
 
----
+
 
 ## UI / Prototype Screens
 
@@ -77,7 +73,7 @@ Our solution explored a **community-driven travel platform** where users could:
   <img src="images/survey.jpg" width="500"/>
 </div>
 
----
+
 
 ## Pitching Video
 
@@ -85,7 +81,7 @@ A short presentation explaining the concept, user flow, and design thinking.
 
 https://youtu.be/oC8ipIhxHAs
 
----
+
 
 ## What I Learned
 
@@ -95,12 +91,12 @@ https://youtu.be/oC8ipIhxHAs
 * Communicating product ideas effectively through pitching
 * Early understanding of travel tech ecosystem and user needs
 
----
+
 
 ## Project Reflection
 
 This project represents my early-stage thinking in product design and web development. While technically simple, it laid the foundation for later work involving full-stack architecture, AI integration, and system design (as seen in the 2024 hackathon project).
 
----
+
 
 

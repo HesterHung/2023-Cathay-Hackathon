@@ -1,7 +1,5 @@
 Team 264 - DebugHero
 
-- - - 
-
 ---
 
 # Cathay Hackathon 2023 — Low-Cost Travel Experience Prototype

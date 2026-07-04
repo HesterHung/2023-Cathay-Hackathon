@@ -44,6 +44,11 @@ Our solution explored a **community-driven travel platform** where users could:
 * Budget-based travel exploration flow
 * Early-stage UX for pre-booking inspiration
 
+## Pitching Video
+
+A short presentation explaining the concept, user flow, and design thinking.
+
+https://youtu.be/oC8ipIhxHAs
 
 
 ## Tech Stack
@@ -53,7 +58,6 @@ Our solution explored a **community-driven travel platform** where users could:
 * JavaScript
 
 (No backend was implemented due to hackathon time constraints)
-
 
 
 ## UI / Prototype Screens
@@ -70,15 +74,6 @@ Our solution explored a **community-driven travel platform** where users could:
 <div style="display: flex; gap: 10px;">
   <img src="images/survey.jpg" width="500"/>
 </div>
-
-
-
-## Pitching Video
-
-A short presentation explaining the concept, user flow, and design thinking.
-
-https://youtu.be/oC8ipIhxHAs
-
 
 
 ## What I Learned
